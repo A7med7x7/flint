@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages 
 
 setup(
-    name='khwarizm',
+    name='flint',
     version='0.0.1',
-    packages=find_packages(include=['khwarizm', 'khwarizm.*'],exclude=['tests','khawrizmvenv','experments']),
+    packages=find_packages(include=['flint', 'flint.*'],exclude=['tests','flintvenv','experments']),
     py_modules=[None],
     install_requires=[
         'numpy',
@@ -15,7 +15,7 @@ setup(
     ],
     author='Ahmed Alghali',
     author_email='ahmed@offsechq.com',
-    description='khwarizm is a machine learning library that boosts your productivity and provides you with insights from your data.',
+    description='flint is a machine learning library that boosts your productivity and provides you with insights from your data.',
     python_requires='>=2.8',
     classifiers=[
         'Programming Language :: Python :: 3.8',

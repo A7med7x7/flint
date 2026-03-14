@@ -1,6 +1,6 @@
-# Khwarizm
+# Flint
 
-Khwarizm is a machine learning library designed to boost productivity and provide insights from your data. It builds upon popular libraries like scikit-learn, pandas, and NumPy to streamline common machine learning workflows and implement creative evaluation techniques.
+Flint is a machine learning library designed to boost productivity and provide insights from your data. It builds upon popular libraries like scikit-learn, pandas, and NumPy to streamline common machine learning workflows and implement creative evaluation techniques.
 
 ## Features
 
@@ -12,10 +12,10 @@ Khwarizm is a machine learning library designed to boost productivity and provid
 
 ## Installation
 
-You can install Khwarizm using pip:
+You can install Flint using pip:
 
 ```bash
-pip install khwarizm
+pip install flint
 ```
 
 ## Usage
