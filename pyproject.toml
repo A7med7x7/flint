@@ -18,7 +18,8 @@ dependencies = [
     "scikit-learn",
     "lightgbm",
     "tqdm",
-    "scipy"
+    "scipy",
+    "mlflow"
 ]
 
 classifiers = [
