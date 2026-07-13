@@ -1,7 +1,10 @@
 # Flint
 
-Flint is a machine learning library designed to boost productivity and provide insights from your data. It builds upon popular libraries like scikit-learn, pandas, and NumPy to streamline common machine learning workflows and implement creative evaluation techniques.
+Flint is a machine learning library I designed to iterate a fast baseline, reuse my custome code when doing machine learning workload, and boost my productivity. It builds upon popular libraries like scikit-learn, pandas, and NumPy to streamline common machine learning workflows.
 
+
+### How it started
+I was adviced by my mentor to build a python pacakge back in 2023 whatever it is and that I would learn a lot from it, and I said to myself: I'm building something I will use and actively learn from.
 ## Features
 
 - Feature selection and evaluation tools
@@ -18,29 +21,8 @@ You can install Flint using pip:
 pip install flint
 ```
 
-## Usage
-
-Here's a simple example to get you started:
-
-
-## Modules
-
-- `feature_selection`: Tools for selecting and evaluating features
-- `ensembles`: Ensemble methods for improved model performance
-- `reports`: Functions for generating insightful reports on your data
-- `utils`: Utility functions, including project setup tools
-- `time_series`: Time series analysis and visualization utilities
-
-## Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- [ChatGPT](chatgpt.com) Handled documentations of our `.md` files most of the times. 
+- [ChatGPT](chatgpt.com) Handled documentations of our `.md` files most of the times.
 - Inspired by work at [AirQo](https://airqo.net)
 - Built on top of scikit-learn, pandas, and NumPy
